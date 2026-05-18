@@ -41,4 +41,4 @@ A identidade visual do site remete ao clima praiano, utilizando tons de azul e a
 Como o projeto utiliza apenas HTML e CSS puro, não é necessário instalar dependências ou rodar servidores complexos.
 
 1. Faça o clone deste repositório ou baixe os arquivos em sua máquina
-2. Acesse o link   
+2. Acesse o link =>>>> https://profednafarias-max.github.io/turismo_guaruja/ 
